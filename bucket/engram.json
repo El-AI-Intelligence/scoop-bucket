@@ -1,12 +1,12 @@
 {
-    "version": "0.1.4",
+    "version": "0.2.0",
     "description": "Universal memory for AI agents — one encrypted vault that every tool can use. Capture, search, and assemble context from Claude Code, Cursor, and any MCP client. Privacy you can verify, not just trust.",
     "homepage": "https://engram.ellmstack.dev",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://engram.ellmstack.dev/releases/engramd-windows-x86_64.zip",
-            "hash": "sha256:5b00bdb9f1c09333f8566fb9101029d82187b22bd4100c9addf4712d164df905",
+            "url": "https://engram.ellmstack.dev/releases/engramd-windows-x86_64-0.2.0.zip",
+            "hash": "sha256:1df10b67d3e48602808f1546a0e133a578d78556c8653f6e2dd9a09ba5abb0de",
             "bin": [
                 "engram.exe",
                 "engramd.exe",
